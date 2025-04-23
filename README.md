@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Krokadilly Thagod!
+# 👋 Hi there, I'm Avirukth!
 
 Welcome to my GitHub! I'm passionate about turning data into actionable insights and building solutions at the intersection of **Data Analysis**, **Data Science**, and **Quantitative Modelling**.
 
