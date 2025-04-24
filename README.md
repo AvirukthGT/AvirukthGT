@@ -52,7 +52,6 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 ## 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/avirukth-thadaklur-6323722b7
-- **Kaggle:** [Your Kaggle Profile]
 - **Email:** avirukth@gmail.com
 
 Feel free to explore my repositories, collaborate on interesting projects, or just have a chat about data!
