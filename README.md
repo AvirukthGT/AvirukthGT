@@ -30,7 +30,7 @@
 
 - ⚡ fact: turning caffeine into code 
 
-- 📫 How to reach me **ruthurao@gmail.com**
+- 📫 How to reach me **ravirukth@gmail.com**
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
@@ -87,13 +87,6 @@
 [![Foundry](https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logo=foundry&logoColor=white)](https://book.getfoundry.sh/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-FEDE00?style=for-the-badge&logo=ethereum&logoColor=black)](https://hardhat.org/)
 [![Slither](https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/crytic/slither)
-
-
-
-
-
-
-
 
 
 
