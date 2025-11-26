@@ -35,15 +35,15 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruthu-rao-b28116212/" target="blank"><img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avirukth-thadaklur"  /></a>
-  <a href="https://twitter.com/RuthuRao" target="blank"><img align="center" src="https://img.shields.io/badge/RuthuRao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="RuthuRao"  /></a>
+  <a href="https://www.linkedin.com/in/avirukth-thadaklur/" target="blank"><img align="center" src="https://img.shields.io/badge/Avirukth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avirukth-thadaklur"  /></a>
+  <a href="https://twitter.com/Avirukth" target="blank"><img align="center" src="https://img.shields.io/badge/Avirukth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Avirukth"  /></a>
  
 </p>
 
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
 
-<a href="https://leetcode.com/route2/" target="blank"><img align="center" src="https://img.shields.io/badge/ruthurao-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="ruthurao"/></a>
+<a href="https://leetcode.com/route2/" target="blank"><img align="center" src="https://img.shields.io/badge/Avirukth-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Avirukth"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
