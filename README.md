@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif" height="175px"/></a></h1>
 
-<h1 align="center">Hi 👋, I'm Ruthu Rao </h1>
+<h1 align="center">Hi 👋, I'm Avirukth </h1>
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%36BCF7FF&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Opensource+Contributor)](https://git.io/typing-svg)
@@ -35,7 +35,7 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruthu-rao-b28116212/" target="blank"><img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruthu-rao-b28116212"  /></a>
+  <a href="https://www.linkedin.com/in/ruthu-rao-b28116212/" target="blank"><img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avirukth-thadaklur"  /></a>
   <a href="https://twitter.com/RuthuRao" target="blank"><img align="center" src="https://img.shields.io/badge/RuthuRao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="RuthuRao"  /></a>
  
 </p>
