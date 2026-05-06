@@ -2,12 +2,16 @@
 
 I'm passionate about data and GenAI.  
 
-I don't do this shit for money or recognition. Just watch Kanye cooking beats in his documentary — pure passion, completely unbothered by the world around him. That’s the kind of obsession that creates greatness.  
+> “Screams from the haters got a nice ring to it / I guess every superhero need his theme music.”  
+> — Kanye West
+
+I don't do this shit for money or recognition. From Ye, I learned that real greatness comes from raw, unrelenting passion — that obsessive focus where you lock in on your craft and stay completely unbothered by the noise around you. That level of obsession is what separates the good from the legendary.  
 
 I don't care about people's opinions either.  
 
 > “Whenever you find yourself on the side of the majority, it is time to pause and reflect.”  
 > — Mark Twain
 
-You will see me become something one day, I swear.
-
+*You will see me be me cause who else could be me.*
+on the road to greatness cuh, you will never understand
+go to bed
