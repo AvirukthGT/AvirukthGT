@@ -20,3 +20,5 @@ I don't care about people's opinions either.
 GO TO BED!!! )
 
 [Nobody Cares Until You Win :)](https://www.youtube.com/watch?v=KEJwzmW2w0c&t=2102s)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ3MWRjOHRwM3Z2bHBraDRrZHh6djJnaXd2ZHpwdHhiZHk2NWdqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehOsEb0kiQAsbVihHE/giphy.gif" alt="Nryreddy's profile views" />
