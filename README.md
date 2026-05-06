@@ -13,5 +13,6 @@ I don't care about people's opinions either.
 > — Mark Twain
 
 *You will see me be me cause who else could be me.*
-on the road to greatness cuh, you will never understand
-go to bed
+
+(on the road to greatness cuh, you will never understand
+go to bed )
