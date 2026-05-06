@@ -16,8 +16,8 @@ I don't care about people's opinions either.
 
 *You will see me be me cause who else could be me.*
 
-(on the road to greatness cuh, you will never understand it.
-GO TO BED!!! )
+> on the road to greatness cuh, you will never understand it.
+
 
 [Nobody Cares Until You Win :)](https://www.youtube.com/watch?v=KEJwzmW2w0c&t=2102s)
 
