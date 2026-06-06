@@ -1,4 +1,4 @@
-**Data Engineer / Data Analyst**  
+**Data Engineer / Data Analyst / Data Scientist**  
 
 I'm passionate about data and GenAI.  
 
