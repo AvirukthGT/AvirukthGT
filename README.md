@@ -2,19 +2,6 @@
 
 I'm passionate about data and GenAI.  
 
-> “Screams from the haters got a nice ring to it / I guess every superhero need his theme music.”  
-> — Kanye West
-
-I don't do this shit for money or recognition. From Ye, I learned that real greatness comes from raw, unrelenting passion — that obsessive focus where you lock in on your craft and stay completely unbothered by the noise around you. That level of obsession is what separates the good from the legendary. 
-
-Like Darth Vader, I’ve embraced the fire and the pain. Beneath the armor is a man who lost everything, yet rose more powerful than anyone could imagine. My passion burns from the same place — that deep, personal darkness I refuse to let break me.
-
-I don't care about people's opinions either.  
-
-> “Whenever you find yourself on the side of the majority, it is time to pause and reflect.”  
-> — Mark Twain
-
-*You will see me be me cause who else could be me.*
 
 ```python
 class BreedApart:
